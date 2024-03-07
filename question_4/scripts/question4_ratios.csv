@@ -1,0 +1,9 @@
+﻿method,sampling,tree_prior,migration_ratio
+dta,50:50,constant ,0.809090909
+mascot,50:50,constant ,0.631147541
+dta,90:10,constant ,3.642857143
+mascot,90:10,constant ,1.144736842
+dta,50:50,skyline,0.776785714
+mascot,50:50,skyline,0.79245283
+dta,90:10,skyline,3.488888889
+mascot,90:10,skyline,1.606060606
